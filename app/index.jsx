@@ -12,7 +12,7 @@ const Home = () => {
         <ThemedView style={styles.container}>
             <ThemedLogo style={styles.img} />
             <Spacer height={20} />
-            <ThemeText style={styles.title} title={true}>The Number 1</ThemeText>
+            <ThemeText style={styles.title} title={true}>Awsome 1</ThemeText>
 
             <Spacer height={10} />
             <ThemeText style={{ marginTop: 3, marginBottom: 10 }}>Reading list app</ThemeText>
